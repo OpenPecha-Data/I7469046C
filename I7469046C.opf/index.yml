@@ -1,0 +1,11 @@
+id: 6b07b080b3094c98ae38492f40a997ae
+annotation_type: index
+revision: '00001'
+annotations:
+  954739b637b9444b94033ca7492eb19f:
+    base: D37C.txt
+    Chapters:
+    - title: ''
+      span:
+        start: 0
+        end: 4724

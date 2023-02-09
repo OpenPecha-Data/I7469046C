@@ -1,0 +1,16 @@
+id: I7469046C
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:56:13.899587
+last_modified: 2023-02-09 14:56:13.899775
+source_metadata:
+  title: 'RK: Bodhisatvapiṭaka, BMSC IV, Tibetan'
+  language: bo
+bases:
+  D37C:
+    base_file: D37C.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
